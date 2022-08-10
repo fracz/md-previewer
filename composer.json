@@ -1,0 +1,6 @@
+{
+    "require": {
+        "erusev/parsedown": "^1.7",
+        "danielstjules/stringy": "^3.1"
+    }
+}
